@@ -18,14 +18,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
 
-It all started with Google. As I began working there at 2016, I was introduced to the world of technology. <img src="https://media.giphy.com/media/SzBlFsQg26JL0s12P9/giphy.gif" width="30">
-At first, it seemed intimidating, like a difficult math equation. But the more I learned about it, the fire of wanting to build and create started to grow bigger. I started with HTML, CSS, and Sql, but eventually decided that the path of a front-end developer was the most fulfilling for me.
+I am a front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> hailing from the Philippines.
 
-:zap: In my free time, I like to read novels, play guitar, and enjoy a nice game of chess.
+My journey began with Google back in 2016 when I was first introduced to the vast world of technology. <img src="https://media.giphy.com/media/SzBlFsQg26JL0s12P9/giphy.gif" width="30"> Initially, it appeared daunting, like a complex math equation. I remained steadfast in my pursuit of a solution when faced with challenges <img src="https://media.giphy.com/media/D7z8JfNANqahW/giphy.gif" width="40">, often working tirelessly for days on end until I found the solution. As I delved deeper into the field, my passion for creating and building grew stronger, like a flame that refused to be quenched. Though I started with HTML, CSS, and SQL, I ultimately found the path of a front-end developer to be the most fulfilling.
 
-Looking forward to contribute a lot and learn a lot from the GitHub community. <img src="https://media.giphy.com/media/1AeRjeyzoP2WQD92Jb/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/r8ngQvpMkeWpKkMdvI/giphy.gif" width="30">During my leisure time, I enjoy immersing myself in novels, strumming my guitar, and indulging in a game of chess.
+
+I am eager to contribute to and learn from the vibrant GitHub community <img src="https://media.giphy.com/media/1AeRjeyzoP2WQD92Jb/giphy.gif" width="30">.
 
 ---
 
