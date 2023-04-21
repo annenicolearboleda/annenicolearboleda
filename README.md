@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="110"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/annenicolearboleda/" target="_blank">
@@ -21,7 +21,7 @@
 
 I am a front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> hailing from the Philippines.
 
-My journey began with Google back in 2016 when I was first introduced to the vast world of technology. <img src="https://media.giphy.com/media/SzBlFsQg26JL0s12P9/giphy.gif" width="30"> Initially, it appeared daunting, like a complex math equation. I remained steadfast in my pursuit of a solution when faced with challenges <img src="https://media.giphy.com/media/D7z8JfNANqahW/giphy.gif" width="40">, often working tirelessly for days on end until I found the answer. As I delved deeper into the field, my passion for creating and building grew stronger, like a flame that refused to be quenched. Though I started with HTML, CSS, and SQL, I ultimately found the path of a front-end developer to be the most fulfilling.
+My journey began with Google back in 2016 when I was first introduced to the vast world of technology. <img src="https://media.giphy.com/media/SzBlFsQg26JL0s12P9/giphy.gif" width="30"> Initially, it appeared daunting, like a complex math equation. However, I remained steadfast in my pursuit of a solution when faced with challenges <img src="https://media.giphy.com/media/D7z8JfNANqahW/giphy.gif" width="40">, often working tirelessly for days on end until I found the answer. As I delved deeper into the field, my passion for creating and building grew stronger, like a flame that refused to be quenched. Though I started with HTML, CSS, and SQL, I ultimately found the path of a front-end developer to be the most fulfilling.
 
 <img src="https://media.giphy.com/media/r8ngQvpMkeWpKkMdvI/giphy.gif" width="30">During my leisure time, I enjoy immersing myself in novels, strumming my guitar, and indulging in a game of chess.
 
