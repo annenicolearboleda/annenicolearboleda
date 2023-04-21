@@ -20,7 +20,7 @@
 ### :woman_technologist: About Me :
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
 
-It all started with Google. Beginning work there at 2016, I was introduced to the world of technology. <img src="https://media.giphy.com/media/SzBlFsQg26JL0s12P9/giphy.gif" width="30">
+It all started with Google. As I began working there at 2016, I was introduced to the world of technology. <img src="https://media.giphy.com/media/SzBlFsQg26JL0s12P9/giphy.gif" width="30">
 At first, it seemed intimidating, like a difficult math equation. But the more I learned about it, the fire of wanting to build and create started to grow bigger. I started with HTML, CSS, and Sql, but eventually decided that the path of a front-end developer was the most fulfilling for me.
 
 :zap: In my free time, I like to read novels, play guitar, and enjoy a nice game of chess.
